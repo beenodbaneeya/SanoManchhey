@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621571197130",
+    "project_id": "sanomanchey-efc05",
+    "storage_bucket": "sanomanchey-efc05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621571197130:android:98c1cf784bbaa88c094c33",
+        "android_client_info": {
+          "package_name": "com.Jalpa.sano_manchey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621571197130-v9n8ubv2glula6mrmn5oapho8uefh49c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGq6lmZQSiAv1JZn8YwU_UpBoYgkYwm2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621571197130-v9n8ubv2glula6mrmn5oapho8uefh49c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
